@@ -13,7 +13,7 @@
 ╚═╝  ╚═══╝ ╚═╝ ╚══════╝  ╚═════╝ 
 WHATSAPP BOT BY Janith sadanuwan 
 
-WHATSAPP - 94767438882
+WHATSAPP - 94719945674
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 
@@ -52,9 +52,9 @@ global.SESSION_ID = '' // PUT your session ID BY scan QR
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94719945674'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'NIMESH'
 
 global.OPENAI_API_KEY = "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"
 
