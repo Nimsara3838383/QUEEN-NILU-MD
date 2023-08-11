@@ -67,7 +67,7 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
-global.LANG = 'EN' // Language (EN-  to english  ,  SI- to sinhala )
+global.LANG = 'SI' // Language (EN-  to english  ,  SI- to sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
